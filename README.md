@@ -2,7 +2,8 @@
 
 Una aplicacion realizada siguiendo los lineamientos del patrón DAO en lenguaje Java con interfaz grafica hecha con Swing y con conexion a una base de datos local My SQL.
 
-Pasos para correr la aplicacion en sistemas operativos windows y linux.
+Pasos para correr la aplicacion en sistemas operativos Windows y Linux:
+
 1-Descargar el archivo .zip que lleva el nombre del proyecto.
 
 2-Descomprimirlo.
