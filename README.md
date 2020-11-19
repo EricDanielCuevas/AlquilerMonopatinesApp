@@ -1,6 +1,7 @@
 # AlquilerMonopatinesApp
+La idea de esta app realizada a nivel académico es la construccion de lo que sería un pequeño sistema que lleva los registros de un negocio el cual se dedica al alquiler de monopatines electricos con fines recreativos o de paseo.
 
-Una aplicacion realizada siguiendo los lineamientos del patrón DAO en lenguaje Java con interfaz grafica hecha con Swing y con conexion a una base de datos local My SQL.
+Una aplicacion realizada siguiendo los lineamientos del patrón DAO en lenguaje Java ,utilizando el framework Swing para el desarrollo de la interfaz gráfica y con conexion a una base de datos local My SQL.
 
 Pasos para correr la aplicacion en sistemas operativos Windows y Linux:
 
